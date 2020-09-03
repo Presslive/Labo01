@@ -3,10 +3,15 @@
 // L'auteur:  Diallo Abdoulaye
 // Date: 2020-09-03
 
+
+#include<iostream>                       //Intègre un coffre à outils(coutcin,...0) pour communiquer avec l'utilisateur
+
+
 int main(/*liste des param;etes éventuels */)
 {  //un bloc d'instruction
 
-
+     //afficher le message à l'écran
+	std::cout << "Bienvenue à tous ! ";
 
 
 
