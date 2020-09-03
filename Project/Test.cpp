@@ -3,3 +3,12 @@
 // L'auteur:  Diallo Abdoulaye
 // Date: 2020-09-03
 
+int main(/*liste des param;etes éventuels */)
+{  //un bloc d'instruction
+
+
+
+
+
+	return 0;
+}
